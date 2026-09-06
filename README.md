@@ -42,24 +42,6 @@ ctf-writeups/
 └── README.md
 ```
 
----
-
-## 🗂️ Write-ups
-
-| Competition | Category | Challenge | Key Technique |
-|---|---|---|---|
-| NNS CTF 2026 | Reverse | Flag Pointer Register | Windows x64 calling convention — wrong pointer in `RDX` before `WriteFile` |
-| NNS CTF 2026 | Reverse | Open Secret | Direct `openat` syscall, XOR+LCG-encrypted runtime path |
-| NNS CTF 2026 | Reverse | No Strings Attached | Runtime-built passphrase leaked via `ltrace`'ing `strcmp()` |
-| NNS CTF 2026 | Pwn | Echo Chamber | Format string vulnerability (`printf(input)`) leaking the stack |
-| picoCTF 2026 | Pwn | offset-cycleV2 | Buffer overflow → ret2win |
-| TAMUctf 2026 | Reverse | — | — |
-| bdsec 2026 | Web | — | — |
-| v1t 2026 | Forensic | — | — |
-
-*(Rows without a listed challenge are folders with write-ups pending index — check the folder directly.)*
-
----
 
 ## 🛠️ Tools & Skills
 
