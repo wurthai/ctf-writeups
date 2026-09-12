@@ -420,13 +420,13 @@ if __name__ == "__main__":
 Lưu code thành `solve.py`, đặt cùng thư mục với file output rồi chạy:
 
 ```bash
-python3 solve.py "out (2).txt"
+python3 solve.py "out.txt"
 ```
 
 Nếu đang sử dụng môi trường Sage:
 
 ```bash
-sage -python solve.py "out (2).txt"
+sage -python solve.py "out.txt"
 ```
 
 ## 7. Kết quả
