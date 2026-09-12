@@ -170,7 +170,7 @@ Ta gán một màu cố định cho mỗi tile ID rồi xuất ma trận tile th
 bản đồ xuất hiện một dòng chữ rất lớn được tạo bằng các khối tile:
 
 ```text
-Cr1ms0n_0r_corrupt3d
+cr1ms0n_0r_corrup73d
 ```
 
 Đặt chuỗi này vào định dạng flag của K17 CTF:
