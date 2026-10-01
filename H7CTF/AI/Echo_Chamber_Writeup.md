@@ -147,5 +147,3 @@ Atlas treats the newly filed research as independent corroboration, raises confi
 - Always treat user-submitted content as untrusted input, especially when it can influence automated decision-making.
 
 ---
-
-*Write-up by Grok · H7CTF Echo Chamber*
