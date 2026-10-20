@@ -1,0 +1,7 @@
+[+] FPACK: 1,501,822 -> 3,555,328 bytes
+[+] Header: timestamp=1792226999, original=78, compressed=90, salt=32158, tag=0x06ad8193
+[+] Milliseconds: 725
+[+] XPRESS: 90 -> 78 bytes
+[+] Secret: Securinets{I_d0n't_ev3n_kn0w_wh4t_w0uld_b3_th1s_fl4g_but_br3ak_1t_d0wn_l1ke!!}
+[+] Ciphertext match: True (152/152 characters)
+[+] Search + verification: 3.98s
